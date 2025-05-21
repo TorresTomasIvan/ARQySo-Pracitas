@@ -1,0 +1,16 @@
+history
+pwd
+ls
+clear
+cd /
+ls
+cd ..
+ls
+pwd
+cd /
+cd var/log
+ls
+ls -l
+ls -l -h
+ls -lh
+history -a
