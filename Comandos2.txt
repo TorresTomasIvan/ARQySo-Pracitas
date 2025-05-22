@@ -1,0 +1,56 @@
+cat ~/.bash_history
+pwd
+mkdir Dri1
+mkdir Dri2 Dir3
+ls -l
+pwd
+mkdir /home/ubuntu/Dir3/Dir4
+cd Dir3
+ls
+rmdir Dir4
+ls
+cd ..
+ls -l
+cd Dir1
+cd Dri1
+touch archivo1.txt
+ls -l
+touch archivo2.txt arcihivo3.txt
+ls -l
+cat > leame.txt
+cat leame.txt
+ls -l
+cp archivo1.txt /home/ubuntu/Dir2
+cd /home/ubuntu/Dri2
+cd ..
+ls
+cp archivo1.txt /home/ubuntu/Dri2
+cd..
+cd /home/ubuntu/Dri1
+cp archivo1.txt /home/ubuntu/Dri2
+cd /home/ubuntu/Dri2
+ls
+cd ..
+ls -l
+ls
+cd Dir2
+touch Dir2
+cat Dir2
+cd Dri1
+cp archivo2.txt /home/ubuntu/Dri2
+cd ..
+cd Dri2
+ls
+rm archivo1.txt
+ls
+cd ..
+cd Dir1
+cd Dri1
+ls
+mv archivo1.txt archivo2.txt leame.txt /home/ubuntu/Dir3
+ls
+cd ..
+cd Dir3
+ls
+cd ..
+ls
