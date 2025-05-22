@@ -1,0 +1,19 @@
+sudo adduser Tomas
+sudo adduser tomas
+su tomas
+cd
+touch text.txt
+ls
+ls - l
+pwd
+ls
+ls -l
+chmod 700 text.tx
+chmod 700 text.txt
+ls -l
+chmod 644 text.txt
+ls -l
+chmod 755 text.txt
+ls -l
+histoy -a > ~/.bash_history
+history -a > ~/.bash_history
